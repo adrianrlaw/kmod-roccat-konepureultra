@@ -1,0 +1,24 @@
+kmod-roccat-konepureultra - A Driver for the Roccat Kone Pure Ultra
+
+	This project intends to bring support for
+	Roccat's newer Kone Pure to Linux.
+
+	Currently, the driver is in it's early stages,
+	and I still need to find any quirks that I
+	should worry about.
+
+Building
+
+	A simple "$ make" and "# make install" should
+	compile and install the kernel module for your
+	currently running kernel.
+
+Contribution
+
+	Please read the Linux Kernel Coding Style.
+
+		https://www.kernel.org/doc/html/latest/process/coding-style.html
+
+	Eventually, when this driver is guaranteed to
+	work, I would want to submit this code into the
+	upstream kernel release.
